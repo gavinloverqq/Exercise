@@ -6,5 +6,10 @@
 
 ### Jan
 1. 强化学习基础学习
+   1. https://www.bilibili.com/video/BV12o4y197US/?vd_source=77ad538e81a4cf20b61215dfcbc1e4fc
+   2. https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning
+   3. https://zhuanlan.zhihu.com/p/436170621
+   4. https://www.kaggle.com/code/xiefei/exercise-deep-reinforcement-learning
+   5. https://blog.csdn.net/qq_41773233/article/details/119137380
 2. 强化学习kaggle学习
 3. 强化学习NVIDIA Euraka
